@@ -1,2 +1,2 @@
 this is the fifth_branch after commit
-3
+detached fifth_branch
